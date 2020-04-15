@@ -1,0 +1,11 @@
+[ {
+  "uid" : "8cddde32ec7662c0",
+  "name" : "This test is to select the required mobile phone",
+  "time" : {
+    "start" : 1586862496714,
+    "stop" : 1586862511933,
+    "duration" : 15219
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

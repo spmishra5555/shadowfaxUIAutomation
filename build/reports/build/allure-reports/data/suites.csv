@@ -1,0 +1,2 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Tue Apr 14 16:38:16 IST 2020","Tue Apr 14 16:38:31 IST 2020","15219","ShadowFax UI automation assignment","Select Mobile Phone on flipkart","in.shadowfax.tests.SelectMobilePhoneTest","in.shadowfax.tests.SelectMobilePhoneTest","selectMobilePhoneTest","This test is to select the required mobile phone",""

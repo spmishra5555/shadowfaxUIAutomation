@@ -1,0 +1,10 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="ShadowFax UI automation assignment" verbose="1">
+    <test name="Select Mobile Phone on flipkart">
+        <packages>
+            <package name="in.shadowfax.tests"/>
+        </packages>
+    </test>
+</suite>
+
+

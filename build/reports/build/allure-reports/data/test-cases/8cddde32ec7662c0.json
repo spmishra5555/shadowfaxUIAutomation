@@ -1,0 +1,84 @@
+{
+  "uid" : "8cddde32ec7662c0",
+  "name" : "This test is to select the required mobile phone",
+  "fullName" : "in.shadowfax.tests.SelectMobilePhoneTest.selectMobilePhoneTest",
+  "historyId" : "af1b54728998410bd9cc98c89eaf47b1",
+  "time" : {
+    "start" : 1586862496714,
+    "stop" : 1586862511933,
+    "duration" : 15219
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "b4e12225f3c1647",
+      "name" : "screenshot",
+      "source" : "b4e12225f3c1647.png",
+      "type" : "image/png",
+      "size" : 446773
+    }, {
+      "uid" : "fc87ff08e67c1f9e",
+      "name" : "screenshot",
+      "source" : "fc87ff08e67c1f9e.png",
+      "type" : "image/png",
+      "size" : 446773
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 2,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "in.shadowfax.tests.SelectMobilePhoneTest"
+  }, {
+    "name" : "testClass",
+    "value" : "in.shadowfax.tests.SelectMobilePhoneTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "selectMobilePhoneTest"
+  }, {
+    "name" : "parentSuite",
+    "value" : "ShadowFax UI automation assignment"
+  }, {
+    "name" : "suite",
+    "value" : "Select Mobile Phone on flipkart"
+  }, {
+    "name" : "subSuite",
+    "value" : "in.shadowfax.tests.SelectMobilePhoneTest"
+  }, {
+    "name" : "host",
+    "value" : "BLRM-300031705"
+  }, {
+    "name" : "thread",
+    "value" : "40000@BLRM-300031705.Test worker(11)"
+  }, {
+    "name" : "framework",
+    "value" : "testng"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "8cddde32ec7662c0.json",
+  "parameterValues" : [ ]
+}

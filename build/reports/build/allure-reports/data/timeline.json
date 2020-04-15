@@ -1,0 +1,26 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "BLRM-300031705",
+    "children" : [ {
+      "name" : "40000@BLRM-300031705.Test worker(11)",
+      "children" : [ {
+        "name" : "This test is to select the required mobile phone",
+        "uid" : "8cddde32ec7662c0",
+        "parentUid" : "88b22331f2d5f2a7a7f6632f3e7723db",
+        "status" : "passed",
+        "time" : {
+          "start" : 1586862496714,
+          "stop" : 1586862511933,
+          "duration" : 15219
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "88b22331f2d5f2a7a7f6632f3e7723db"
+    } ],
+    "uid" : "6e825097bdc0dfcef95cbe7d99fb956d"
+  } ]
+}

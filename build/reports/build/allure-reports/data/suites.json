@@ -1,0 +1,30 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "name" : "suites",
+  "children" : [ {
+    "name" : "ShadowFax UI automation assignment",
+    "children" : [ {
+      "name" : "Select Mobile Phone on flipkart",
+      "children" : [ {
+        "name" : "in.shadowfax.tests.SelectMobilePhoneTest",
+        "children" : [ {
+          "name" : "This test is to select the required mobile phone",
+          "uid" : "8cddde32ec7662c0",
+          "parentUid" : "3ce5d855bed753d310e915c12e528d03",
+          "status" : "passed",
+          "time" : {
+            "start" : 1586862496714,
+            "stop" : 1586862511933,
+            "duration" : 15219
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "3ce5d855bed753d310e915c12e528d03"
+      } ],
+      "uid" : "bf4f1dcd959838a02ea4958bdfd7d3c0"
+    } ],
+    "uid" : "1821303af264664c867f3203800f2974"
+  } ]
+}
